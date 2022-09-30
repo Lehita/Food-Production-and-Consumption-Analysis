@@ -1,1 +1,8 @@
-# Food-Production-and-Consumption-Analysis
+## FOOD PRODUCTION AND CONSUMPTION ANALYSIS
+### BACKGROUND
+#### Food shortage has long since been a global crisis. But recently, the situation has gotten worse. 
+#### Since the COVID-19 pandemic in 2020, the number of people facing, or at risk of, acute food insecurity has increased from 135 million (in 53 countries pre-pandemic) to 345 million (in 82 countries today).
+#### This increase can be attributed to the aftermath of the pandemic, climate shocks and war, the Ukraine-Russia war to be specific.
+#### Due to this shortage, millions of people are struggling to put food on the table and are being driven closer to starvation. This analysis aims to offer solutions to the global food crisis by analyzing food production and consumption in 45 African countries.
+### THE DATA
+#### The data used in the analysis comprise two datasets (one containing information on food production and the other containing information on food consumption).
