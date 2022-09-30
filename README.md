@@ -5,4 +5,6 @@
 #### This increase can be attributed to the aftermath of the pandemic, climate shocks and war, the Ukraine-Russia war to be specific.
 #### Due to this shortage, millions of people are struggling to put food on the table and are being driven closer to starvation. This analysis aims to offer solutions to the global food crisis by analyzing food production and consumption in 45 African countries.
 ### THE DATA
-#### The data used in the analysis comprise two datasets (one containing information on food production and the other containing information on food consumption).
+#### The data used in the analysis comprise two datasets (one containing information on food production and the other containing information on food consumption). Production values were measured in kilo-tonnes while consumption values were measured in kcal/person/day.
+### SUMMARY OF ANALYSIS
+#### The visuals were built using Python programming language and used to write a report containing recommended solutions. The code and article can be found in this repo.
