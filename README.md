@@ -8,4 +8,6 @@
 #### The data used in the analysis comprise two datasets (one containing information on food production and the other containing information on food consumption). Production values were measured in kilo-tonnes while consumption values were measured in kcal/person/day.
 ### SUMMARY OF ANALYSIS
 #### The visuals were built using Python programming language and used to write a report containing recommended solutions. The notebook containing the code can be found in this repo.
-#### Link to article: 
+#### Link to report:  https://link.medium.com/lFK41VJqUtb
+#### Snippets👇
+
