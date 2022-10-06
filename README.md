@@ -10,4 +10,6 @@
 #### The visuals were built using Python programming language and used to write a report containing recommended solutions. The notebook containing the code can be found in this repo.
 #### Link to report:  https://link.medium.com/lFK41VJqUtb
 #### Snippets👇
-
+#### ![alt text](https://github.com/Lehita/Food-Production-and-Consumption-Analysis/blob/661e67eabebbe7f5579c3a43098e45c466cb379c/Screenshot_20221006-172915_Medium.jpg)
+#### ![alt text](https://github.com/Lehita/Food-Production-and-Consumption-Analysis/blob/661e67eabebbe7f5579c3a43098e45c466cb379c/Screenshot_20221006-172933_Medium.jpg)
+#### ![alt text](https://github.com/Lehita/Food-Production-and-Consumption-Analysis/blob/661e67eabebbe7f5579c3a43098e45c466cb379c/Screenshot_20221006-172941_Medium.jpg)
